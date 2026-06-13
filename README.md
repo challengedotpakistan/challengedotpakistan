@@ -1,134 +1,164 @@
-🇵🇰 Challenge Pakistan
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Challenge%20Pakistan&fontSize=40&fontColor=ffffff" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Build+Real+World+Projects;Compete+in+Coding+Challenges;Learn+by+Doing+Not+Watching;Open+Source+Community+of+Pakistan" /> </p> <p align="center"> <b>🚀 A developer movement focused on building real-world engineers from Pakistan</b> </p>
-⚡ Mission
+# 🇵🇰 Challenge Pakistan
 
-“Turn learners into builders. Turn builders into innovators.”
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Challenge%20Pakistan&fontSize=40&fontColor=ffffff" />
+</p>
 
-We are building a large-scale open-source ecosystem where developers grow through:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Build+Real+World+Projects;Compete+in+Coding+Challenges;Learn+by+Doing+Not+Watching;Open+Source+Community+of+Pakistan" />
+</p>
 
-🧠 Real-world challenges
-🏆 Hackathons & competitions
-🏗️ Project-based learning
-🤝 Community collaboration
-🚀 Industry-level engineering practices
-📊 Live Community Stats
+<p align="center">
+  <b>🚀 A developer movement focused on building real-world engineers from Pakistan</b>
+</p>
+
+---
+
+## ⚡ Mission
+
+> “Turn learners into builders. Turn builders into innovators.”
+
+We are building a **large-scale open-source ecosystem** where developers grow through:
+
+- 🧠 Real-world challenges  
+- 🏆 Hackathons & competitions  
+- 🏗️ Project-based learning  
+- 🤝 Community collaboration  
+- 🚀 Industry-level engineering practices  
+
+---
+
+## 📊 Community Stats
+
 <p align="center">
 
-
-
-
-
-
-
+![Stars](https://img.shields.io/github/stars/Challenge-Pakistan?style=for-the-badge&color=yellow)
+![Followers](https://img.shields.io/github/followers/Challenge-Pakistan?style=for-the-badge&color=blue)
+![Issues](https://img.shields.io/github/issues/Challenge-Pakistan?style=for-the-badge&color=red)
+![PRs](https://img.shields.io/github/issues-pr/Challenge-Pakistan?style=for-the-badge&color=green)
 
 </p>
-🧠 What We Build
-<p align="center"> <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="300" /> </p>
-🧩 Coding Challenges (Frontend / Backend / Full Stack)
-🏗️ Real production-style projects
-⚡ System design exercises
-🤖 AI & automation tasks
-📱 Mobile app challenges
-🔐 Authentication & security systems
-🌐 API development challenges
-⚙️ Full-Scale Tech Ecosystem
-🎨 Frontend Engineering
 
+---
+
+## 🧠 What We Build
+
+- 🧩 Coding Challenges (Frontend / Backend / Full Stack)
+- 🏗️ Real production-style projects
+- ⚡ System design exercises
+- 🤖 AI & automation tasks
+- 📱 Mobile app challenges
+- 🔐 Authentication & security systems
+- 🌐 API development challenges
+
+---
+
+## ⚙️ Enterprise Tech Stack
+
+### 🎨 Frontend
 React • Next.js • Vue • Angular • Svelte • Tailwind • TypeScript • Redux • Vite
 
-🧠 Backend Engineering
+### 🧠 Backend
+Node.js • Express • NestJS  
+Python • Django • Flask • FastAPI  
+PHP • Laravel • Symfony  
+Go • Spring Boot • Ruby on Rails  
 
-Node.js • Express • NestJS
-Python • Django • Flask • FastAPI
-PHP • Laravel • Symfony
-Go • Java Spring Boot • Ruby on Rails
+### ⚡ Real-Time Systems
+Swoole 🚀 • Socket.io • WebSockets • Redis Pub/Sub • MQTT • WebRTC  
 
-⚡ Real-Time Systems
+### 🏗️ Laravel Ecosystem
+Laravel • Livewire • Inertia.js • Sanctum • Passport • Swoole Integration  
 
-Swoole 🚀 (High-performance PHP server)
-Socket.io
-WebSockets
-Redis Pub/Sub
-MQTT
-WebRTC
+### 🗄️ Databases
+PostgreSQL • MySQL • MongoDB • Redis • Firebase • SQLite • Cassandra  
 
-🏗️ Laravel Ecosystem (Enterprise PHP)
+### ☁️ DevOps
+AWS • GCP • Azure • Docker • Kubernetes • Nginx • Apache • CI/CD • Terraform  
 
-Laravel • Livewire • Inertia.js • Sanctum • Passport
-Swoole + Laravel High Performance Architecture
+### 🤖 AI / ML
+Python • TensorFlow • PyTorch • Scikit-learn • OpenCV • HuggingFace  
 
-🗄️ Databases & Storage
+### 📡 APIs
+REST • GraphQL • gRPC • Webhooks • OpenAPI  
 
-PostgreSQL • MySQL • MongoDB • Redis
-Firebase • SQLite • Cassandra
+### 🔐 Security
+JWT • OAuth2 • Keycloak • Firebase Auth • Sanctum  
 
-☁️ DevOps & Cloud
+---
 
-AWS • GCP • Azure
-Docker • Kubernetes
-Nginx • Apache
-GitHub Actions • CI/CD
-Terraform
+## 🧭 How It Works
 
-🤖 AI / ML Stack
+```mermaid
+graph TD;
+A[New Challenge] --> B[Fork Repo];
+B --> C[Build Solution];
+C --> D[Submit PR];
+D --> E[Review];
+E --> F[Top Solutions Featured];
 
-Python • TensorFlow • PyTorch
-Scikit-learn • OpenCV • HuggingFace
 
-📡 APIs & Systems
+🚀 Contribution Flow
 
-REST • GraphQL • gRPC
-Webhooks • OpenAPI
 
-🔐 Security & Auth
+# Fork repo
+# Clone it
+git clone https://github.com/Challenge-Pakistan/repo.git
 
-JWT • OAuth2 • Keycloak
-Laravel Sanctum • Firebase Auth
-
-🧭 How It Works
-🏆 Contribution Flow
-# 1. Fork repository
-# 2. Clone it
-git clone https://github.com/challengedotpakistan/repo.git
-
-# 3. Create branch
+# Create branch
 git checkout -b feature/my-solution
 
-# 4. Commit changes
+# Commit changes
 git commit -m "Add solution"
 
-# 5. Push
+# Push
 git push origin feature/my-solution
-🌍 Community Links
+
+
+
+
+🌍 Community
 <p align="center">
+💼 Professional Network
+<a href="https://www.linkedin.com/company/challenge-pakistan"> <img src="https://img.shields.io/badge/Challenge%20Pakistan-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+📘 Community Hub
+<a href="https://www.facebook.com/Challengepk/"> <img src="https://img.shields.io/badge/Challenge%20Pakistan-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+📸 Visual Stories
+<a href="https://www.instagram.com/challengedotpakistan"> <img src="https://img.shields.io/badge/Challenge%20Pakistan-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
+🎥 Video Learning
+<a href="https://www.youtube.com/@challengepakistan-e4n"> <img src="https://img.shields.io/badge/Challenge%20Pakistan-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
+👻 Snap Updates
+<a href="https://www.snapchat.com/@challengepk"> <img src="https://img.shields.io/badge/Challenge%20Pakistan-Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" /> </a>
+🎵 Short Form Content
+<a href="https://www.tiktok.com/@challenge.pakistan"> <img src="https://img.shields.io/badge/Challenge%20Pakistan-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /> </a> </p>
 
 
-
-
-
-
-</p>
 📈 Roadmap
-🚀 Phase 1 — Beginner Coding Challenges
-🧠 Phase 2 — Intermediate Full Stack Projects
-🏗️ Phase 3 — System Design + Scalable Systems
-⚡ Phase 4 — Real Startup-Level Products
-🌍 Phase 5 — Open Source Ecosystem Expansion
-🧑‍💻 Who Can Join?
-Students 👨‍🎓
-Beginners 🟢
-Intermediate devs 🟡
-Professionals 🔵
-Open-source contributors ❤️
+
+Phase 1: Beginner Challenges
+Phase 2: Full Stack Projects
+Phase 3: System Design
+Phase 4: Real Startup Systems
+Phase 5: Open Source Expansion
+
+
 🏁 Vision
-<p align="center"> <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" /> </p>
 
 “We are not building projects. We are building developers.”
 
-⭐ Support the Movement
-⭐ Star repositories
+⭐ Support
+⭐ Star repos
 🍴 Fork & contribute
-📢 Share with friends
-💻 Join challenges
-🔥 Footer Wave
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer"/> </p>
+📢 Share community
+💻 Participate in challenges
+
+
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer"/> </p> ```
+
+
+
+
+C --> D[Submit PR];
+D --> E[Review];
+E --> F[Top Solutions Featured];
