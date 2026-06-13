@@ -26,20 +26,7 @@ We are building a **large-scale open-source ecosystem** where developers grow th
 - 🤝 Community collaboration  
 - 🚀 Industry-level engineering practices  
 
----
 
-## 📊 Community Stats
-
-<p align="center">
-
-![Stars](https://img.shields.io/github/stars/Challenge-Pakistan?style=for-the-badge&color=yellow)
-![Followers](https://img.shields.io/github/followers/Challenge-Pakistan?style=for-the-badge&color=blue)
-![Issues](https://img.shields.io/github/issues/Challenge-Pakistan?style=for-the-badge&color=red)
-![PRs](https://img.shields.io/github/issues-pr/Challenge-Pakistan?style=for-the-badge&color=green)
-
-</p>
-
----
 
 ## 🧠 What We Build
 
