@@ -1,4 +1,4 @@
-# 🇵🇰 Challenge Pakistan
+# 🇵🇰  <svg width="50" height="50" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 6H20L16.1869 11.4279H15.4416L12 16.2793L15.4416 22.1082H16.1869L20 27H12L4 16.2793L12 6Z" fill="black"></path><path d="M21.5463 3.4282L25 2L24.2005 6L23.4009 10H18.5034L21.5463 5.42708H17L21.5463 3.4282Z" fill="url(#paint0_linear_362_2)"></path><path d="M16.875 22.4102L22.5528 22.4102L26.0005 27.2366L20.5613 27.2366L16.875 22.4102Z" fill="#00E676"></path><defs><linearGradient id="paint0_linear_362_2" x1="25.0016" y1="2" x2="18.6443" y2="10.8564" gradientUnits="userSpaceOnUse"><stop offset="0.0288462" stop-color="#01FF83"></stop><stop offset="0.673077" stop-color="#00E676"></stop><stop offset="1" stop-color="#008042"></stop></linearGradient></defs></svg> Challenge Pakistan
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Challenge%20Pakistan&fontSize=40&fontColor=ffffff" />
@@ -89,13 +89,13 @@ JWT • OAuth2 • Keycloak • Firebase Auth • Sanctum
 
 ## 🧭 How It Works
 
-```mermaid
-graph TD;
-A[New Challenge] --> B[Fork Repo];
-B --> C[Build Solution];
-C --> D[Submit PR];
-D --> E[Review];
-E --> F[Top Solutions Featured];
+graph TD
+A[🚀 New Challenge Released] --> B[🍴 Fork Repository]
+B --> C[🛠 Build Solution]
+C --> D[📤 Submit Pull Request]
+D --> E[👀 Review by Maintainers]
+E --> F[🏆 Top Solutions Featured]
+F --> G[⭐ Community Recognition]
 
 
 🚀 Contribution Flow
@@ -154,11 +154,10 @@ Phase 5: Open Source Expansion
 
 
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer"/> </p> 
 
 
 
 
-C --> D[Submit PR];
 D --> E[Review];
 E --> F[Top Solutions Featured];
